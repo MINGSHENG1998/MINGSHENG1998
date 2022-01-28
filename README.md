@@ -9,8 +9,8 @@
 <h4>These are some of the language/framework I have been used in various projects:</h4>
 <ol>
   <li>React js</li>
-  <li>Angular 8 & Angular 12</li>
   <li>React Native</li>
+  <li>Angular 8 & Angular 12</li>  
   <li>Java Springboot</li>
 </ol>
 
