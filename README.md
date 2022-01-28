@@ -6,3 +6,12 @@
 
 <h3>Why don't you come visit <a href="https://khaw-ming-sheng-cv.web.app/">my personal site</a>?</h3>
 
+<h4>These are some of the language/framework I have been used in various projects:</h4>
+<ol>
+  <li>React js</li>
+  <li>Angular 8 & Angular 12</li>
+  <li>React Native</li>
+  <li>Java Springboot</li>
+</ol>
+
+<h3>Currently I'm working on Flutter project, will showcase when its complete!</h3>
