@@ -14,4 +14,4 @@
   <li>Java Springboot</li>
 </ol>
 
-<h3>Currently I'm working learning on MERN project! It's really interesting, you should also try it if you haven't work on a MERN project before!</h3>
+<h3>Currently I'm working learning on MERN project! It's really interesting, you should also try it if you never work on a MERN project before!</h3>
