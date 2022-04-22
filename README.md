@@ -14,4 +14,4 @@
   <li>Java Springboot</li>
 </ol>
 
-More Info @ <a href="https://www.linkedin.com/in/khawmingsheng/">
+More Info @ <a href="https://www.linkedin.com/in/khawmingsheng/">My LinkedIn Profile</a>
